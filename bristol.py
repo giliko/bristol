@@ -4,6 +4,9 @@ bristol -- 20140304.01
 + rm_dcp() modification -- 20140203.01
 
 i.gil@proyecson.com
+
+Añadir gestión de contenidos mediante el parseo del CPL en lugar del PKL
+
 '''
 
 from lxml import etree
